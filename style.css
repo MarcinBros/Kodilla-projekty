@@ -1,8 +1,9 @@
 body {
-    color: green;
+    color: white;
+    background-image: url(https://images.pexels.com/photos/1089438/pexels-photo-1089438.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
     
 }
 
 body h1 {
-    color: blue;
+    color: grey;
 }
